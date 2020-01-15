@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DCDA-CC1F
+
+ Directory of C:\Users\accou\Desktop\Project
+
+15-01-2020  17:18    <DIR>          .
+15-01-2020  17:18    <DIR>          ..
+15-01-2020  17:18                 0 folder.txt
+15-01-2020  17:16               413 Hello.class
+15-01-2020  15:34               115 Hello.java
+15-01-2020  17:06               441 readme.txt
+               4 File(s)            969 bytes
+               2 Dir(s)  933,073,080,320 bytes free
