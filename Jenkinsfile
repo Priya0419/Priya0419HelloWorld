@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('run') {
       steps {
-        bat(script: 'echo %date%', encoding: 'date', label: 'date', returnStatus: true, returnStdout: true)
+        bat(script: 'echo %DATE%', encoding: 'date', label: 'date', returnStatus: true, returnStdout: true)
       }
     }
 
