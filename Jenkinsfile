@@ -1,9 +1,9 @@
 pipeline {
-  agent any
+  agent none
   stages {
     stage('run') {
       steps {
-        bat(script: 'echo %DATE%', encoding: 'date', label: 'date', returnStatus: true, returnStdout: true)
+        bat 'echo %DATE%'
       }
     }
 
